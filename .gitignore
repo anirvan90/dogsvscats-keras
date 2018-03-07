@@ -1,2 +1,3 @@
 data/
-images/
+images
+resnet_bottleneck_weights.h5/
